@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IPL</title>
+<style>
+    body{
+        background-color: rgb(240, 15, 49);
+    }
+    p{
+    font-style:oblique;
+    font-size:xx-large;
+    color:rgb(122, 178, 32);
+    }
+</style>
+</head>
+<body>
+
+<a href="https://www.google.com/search?q=royal+challengers+bangalore&oq=royal+challenger&aqs=chrome.0.0i355i433j69i57j0l4j0i433j0l3.13598j0j7&sourceid=chrome&ie=UTF-8"><img src = "https://i.pinimg.com/originals/e5/8f/b0/e58fb0dc39ac13dc7719716e46a2ed35.png" alt ="cannot display" width="40%" height="20%"></a> 
+<p>RCB</p>
+</body>
+</html>
